@@ -9,7 +9,7 @@ import { useSmartNavigation } from '@/hooks/useSmartNavigation';
 
 const DEFAULT_HERO = {
   badge: 'Enterprise-Grade APIs',
-  title: 'Secure Open Banking Infrastructure for Modern Fintech',
+  title: 'Test Open Banking Infrastructure for Modern Fintech',
   subtitle:
     'Build compliant financial applications with our robust APIs. Enterprise-grade security, comprehensive documentation, and scalable architecture designed for regulated environments.',
   primaryCta: 'Start Building',
@@ -18,17 +18,17 @@ const DEFAULT_HERO = {
   secondaryCtaHref: '/documentation',
   features: [
     {
-      title: 'Bank-Level Security',
+      title: 'Test Open Banking Infrastructure for Modern Fintech',
       description:
         'SOC 2 Type II certified with end-to-end encryption and regulatory compliance built-in',
     },
     {
-      title: 'Developer-First APIs',
+      title: 'Test Open Banking Infrastructure for Modern Fintech',
       description:
         'Comprehensive SDKs, interactive documentation, and seamless integration workflows',
     },
     {
-      title: 'Scalable Infrastructure',
+      title: 'Test Open Banking Infrastructure for Modern Fintech',
       description:
         'Auto-scaling architecture that handles millions of transactions with 99.99% uptime',
     },
