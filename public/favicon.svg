@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="brandGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e07a5f"/>
+      <stop offset="100%" style="stop-color:#c9553d"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- 3x3 Grid of dots -->
+  <circle cx="12" cy="12" r="7" fill="url(#brandGradient)"/>
+  <circle cx="32" cy="12" r="7" fill="url(#brandGradient)" opacity="0.7"/>
+  <circle cx="52" cy="12" r="7" fill="url(#brandGradient)" opacity="0.4"/>
+  <circle cx="12" cy="32" r="7" fill="url(#brandGradient)" opacity="0.7"/>
+  <circle cx="32" cy="32" r="7" fill="url(#brandGradient)"/>
+  <circle cx="52" cy="32" r="7" fill="url(#brandGradient)" opacity="0.7"/>
+  <circle cx="12" cy="52" r="7" fill="url(#brandGradient)" opacity="0.4"/>
+  <circle cx="32" cy="52" r="7" fill="url(#brandGradient)" opacity="0.7"/>
+  <circle cx="52" cy="52" r="7" fill="url(#brandGradient)"/>
+</svg>
