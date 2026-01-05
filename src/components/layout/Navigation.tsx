@@ -8,7 +8,10 @@ import { useSmartNavigation } from '@/hooks/useSmartNavigation';
 
 const DEFAULT_NAVIGATION = {
   brandName: 'OpenBank API',
-  navItems: [{ label: 'Home', href: '#hero' }],
+  navItems: [
+    { label: 'Home', href: '#hero' },
+    { label: 'Pricing', href: '/pricing' },
+  ],
   ctaText: 'Get API Key',
   ctaHref: '/signup',
 } as const;
